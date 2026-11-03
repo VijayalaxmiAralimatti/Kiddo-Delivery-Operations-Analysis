@@ -10,4 +10,4 @@ _**Technologies:**_ Microsoft Excel, Pivot Tables, Pivot Charts, Dashboard Desig
 
 📌 **Note:**
 - The original dataset and working Excel workbook are intentionally not included in this repository because they contain operational data and personally identifiable information (PII), such as rider names and contact details, provided as part of a technical assessment.
-- To respect data privacy, ethical considerations, and responsible data handling practices, this repository includes only dashboard screenshots and supporting documentation. The analysis, methodology, and findings are based on the original dataset, while all sensitive information has been withheld from public distribution.
+- To respect data privacy, ethical considerations, and responsible data handling practices, this repository includes the project report, dashboard screenshots, and supporting documentation. The analysis, methodology, and findings are based on the original dataset, while all sensitive information has been withheld from public distribution.
